@@ -1,4 +1,5 @@
 # Free Personal Portfolio Website
+![Carbell Sarfo Website Design](https://github.com/Carbell-sarfo/alx_capstone_project/assets/51845903/e3f0f6c9-2fcf-49be-a9fc-051416251123)
 
 Welcome to my free personal portfolio website! This platform showcases my skills, projects, and achievements as a web developer. Discover more about my journey and explore the various features available to you.
 
