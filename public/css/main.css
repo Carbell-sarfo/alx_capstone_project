@@ -1,9 +1,9 @@
 /* Error: Can't find stylesheet to import.
  *    ,
- * 26 | @import "pages/portfolio";
- *    |         ^^^^^^^^^^^^^^^^^
+ * 27 | @import "pages/meeting";
+ *    |         ^^^^^^^^^^^^^^^
  *    '
- *   src\sass\main.scss 26:9  root stylesheet */
+ *   src\sass\main.scss 27:9  root stylesheet */
 
 body::before {
   font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
@@ -13,5 +13,5 @@ body::before {
   padding: 1em;
   margin-bottom: 1em;
   border-bottom: 2px solid black;
-  content: "Error: Can't find stylesheet to import.\a    \2577 \a 26 \2502  @import \"pages/portfolio\";\a    \2502          ^^^^^^^^^^^^^^^^^\a    \2575 \a   src\\sass\\main.scss 26:9  root stylesheet";
+  content: "Error: Can't find stylesheet to import.\a    \2577 \a 27 \2502  @import \"pages/meeting\";\a    \2502          ^^^^^^^^^^^^^^^\a    \2575 \a   src\\sass\\main.scss 27:9  root stylesheet";
 }
